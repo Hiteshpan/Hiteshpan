@@ -3,16 +3,23 @@
 <br>
 <br>
 
-<img align="left" alt="Coding"  width="80%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codder" width="80%">
+</div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hiteshpan&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshpan"  width="25%"/> </p>
-
+<br>
+<br>
+<p align="right" width="50%"> 
+ 
 - 👋 Hi, I’m @hiteshpan
 - 🌱 I’m currently learning **JavaScript, React etc**
 - 💞️ I’m looking to collaborate on anything
 - ✨ How to reach me **hiteshrtk999@gmail.com**
 - ✨Linkedin Hitesh Kumar
 - ⚡ Fun fact **I think I can code**
+
+</p>
+
 
 
 
