@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, This is Hitesh Kumar</h1>
 <h3 align="center">A passionate developer who is trying to learn & Do stuffs.</h3>
-<img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="90%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshpan&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshpan" /> </p>
 
 - 👋 Hi, I’m @hiteshpan
-
 - 🌱 I’m currently learning **JavaScript, React etc**
-  
 - 💞️ I’m looking to collaborate on anything
-
 - ✨ How to reach me **hiteshrtk999@gmail.com**
-
 - ✨Linkedin Hitesh Kumar
-
 - ⚡ Fun fact **I think I can code**
 
 
