@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-    <img src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="codder" width="80%">
+    <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="codder" width="80%">
 </div>
 
 <br>
