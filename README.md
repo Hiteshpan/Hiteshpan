@@ -12,7 +12,7 @@
 <p align="right" width="50%"> 
  
 - 👋 Hi, I’m @hiteshpan
-- 🌱 I’m currently learning **JavaScript, React etc**
+- 🌱 I’m currently learning **Full-Stack or MERN Stack Development, etc**
 - 💞️ I’m looking to collaborate on anything
 - ✨ How to reach me **hiteshrtk999@gmail.com**
 - ✨Linkedin Hitesh Kumar
