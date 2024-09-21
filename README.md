@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Full-Stack or MERN Stack Development, etc**
 - 💞️ I’m looking to collaborate on anything
 - ✨ How to reach me **hiteshrtk999@gmail.com**
-- ✨Linkedin Hitesh Kumar
+- ✨Linkedin https://www.linkedin.com/in/hitesh-kumar-46708822b/
 - ⚡ Fun fact **I think I can code**
 
 </p>
