@@ -1,7 +1,7 @@
 ![wallpaperflare com_wallpaper (2)](https://github.com/user-attachments/assets/2bdc51e1-7f5d-4f8e-8fdf-0362772add2c)
 
 
-<h1 align="center">Hi 👋, This is Hitesh Kumar</h1>
+# <h1 align="center">Hi 👋, This is Hitesh Kumar</h1>
 <h3 align="center">A passionate developer who is trying to learn & Do stuffs.</h3>
 
 <div>
