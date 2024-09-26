@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, This is Hitesh Kumar</h1>
 <h3 align="center">A passionate developer who is trying to learn & Do stuffs.</h3>
-<br>
-<br>
 
-<div align="center">
+<div>
     <img align="right" alt="codder" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
 
-<br>
-<br>
 <p align="right" width="50%"> 
  
 - 👋 Hi, I’m @hiteshpan
