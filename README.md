@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Full-Stack or MERN Stack Development, etc**
 
-- 👨‍💻 All of my projects are available at [abc.com](abc.com)
+- 👨‍💻 All of my projects are available at [Hitesh_Kumar_Portfolio](https://hitesh-kumar-portfolio.vercel.app/)
 
-- 💬 Ask me about **ReactJS,NextJS,etc**
+- 💬 Ask me about ** ReactJS, NextJS, etc **
 
 - 📫 How to reach me **hiteshrtk999@gmail.com**
 
-- 📄 Know about my experiences [pdf.com](pdf.com)
+- 📄 Know about my experiences [Hitesh_Kumar_Resume](https://drive.google.com/file/d/1VGWdYDYe9Dy0xG-2NOZpxFN4tv8i6fD9/view?usp=sharing)
 
 - ⚡ Fun fact **I think I can code.**
 
