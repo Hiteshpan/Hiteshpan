@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, This is Hitesh Kumar</h1>
 <h3 align="center">A passionate developer who is trying to learn & Do stuffs.</h3>
 
-<div>
-    <img align="right" alt="codder" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div align="right">
+    <img alt="codder" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
 
 <p align="right" width="50%"> 
